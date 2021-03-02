@@ -1,5 +1,5 @@
 # Simulated-Annealing-and-Java-Interface
-It's an internship project. One of the metaheuristic algorithms called Simulated Annealing is implemented. A user interface in which dataset(in Excel) can be imported and the results can be  accessed is also developed.
+It was an internship project at Turkish Aerospace Industries in 2016. One of the metaheuristic algorithms called Simulated Annealing has been implemented by only myself in only two months. A user interface in which a dataset(in Excel) can be imported has been also added to the project.
 
 The Simulated Annealing Algorithm part begins after 750th line in java file **InterfaceTrialC.java** which can be found in **Simulated Annealing and UI** folder
 
